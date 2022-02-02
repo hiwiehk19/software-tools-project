@@ -5,5 +5,3 @@ hiwot zelalem
 hiwot bogale
 eden tesfaye
 eden gebremariam
-
-trying to push
