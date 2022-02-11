@@ -1,4 +1,4 @@
-[In reply to Zoe🖤]
+
 import React from "react";
 
 class AddContact extends React.Component {
